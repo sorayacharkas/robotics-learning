@@ -1,0 +1,9 @@
+.DS_Store
+build/
+*.o
+*.out
+main
+main2
+new
+ref
+soraya
