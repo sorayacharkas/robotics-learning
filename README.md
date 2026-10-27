@@ -1,6 +1,6 @@
 # robotics-learning
 
-My C++ practice while working through [learncpp.com](https://www.learncpp.com/), plus small exercises on the way to robotics software (ROS 2, simulation, vision).
+My C++ practice, plus small exercises on the way to robotics software (ROS 2, simulation, vision).
 
 ```
 inc/   headers
